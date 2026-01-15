@@ -53,6 +53,9 @@ temp_repo/
 # Git
 .git/
 
+# Claude AI
+.claude/
+
 # Application data (optional, uncomment if you don't want to track)
 # *.db
 # *.sqlite
